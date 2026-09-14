@@ -1,0 +1,4 @@
+
+git add .
+git commit -m "Add automated publishing workflow"
+git push origin main
